@@ -1,0 +1,64 @@
+/* * {
+    color: pink;
+} */
+
+/* h1 {
+    color: purple;
+}
+
+p {
+    color: chocolate;
+} */
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+body {
+    /* background-color: rgb(190, 3, 252); */
+    background-color: white;
+}
+
+#headingOne {
+    color: gray;
+}
+
+#headingTwo {
+    color: purple;
+}
+
+#headingThree {
+    color: brown;
+}
+
+.myClass {
+    color: brown;
+}
+
+p {
+    text-align: start;
+    text-decoration: blue dotted underline;
+}
+
+h1 {
+    text-align: center;
+    /* text-decoration: green wavy underline; */
+}
+
+a {
+    text-decoration: none;
+}
+
+#h1 {
+    font-weight: normal;
+}
+#h2 {
+    font-weight: bold;
+}
+#h3 {
+    font-weight: bolder;
+}
+#h4 {
+    font-weight: lighter;
+}
